@@ -1,0 +1,9 @@
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\DAE2GFX.exe.config
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\DAE2GFX.exe
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\DAE2GFX.pdb
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2GFX.csprojResolveAssemblyReference.cache
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2GFX.Form1.resources
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2GFX.Properties.Resources.resources
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2GFX.csproj.GenerateResource.Cache
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2GFX.exe
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2GFX.pdb

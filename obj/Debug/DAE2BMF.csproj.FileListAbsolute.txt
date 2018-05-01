@@ -1,0 +1,162 @@
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2BMF.csprojResolveAssemblyReference.cache
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2GFX.Form1.resources
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2BMF.csproj.GenerateResource.Cache
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\DAE2BMF.exe.config
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\DAE2BMF.exe
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\DAE2BMF.pdb
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2BMF.Properties.Resources.resources
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2BMF.exe
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2BMF.pdb
+c:\users\robinder\documents\visual studio 2017\Projects\DAE2GFX\DAE2GFX\obj\Debug\DAE2BMF.Form2.resources
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x64\concrt140.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x64\cvextern.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x64\msvcp140.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x64\vcruntime140.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x86\concrt140.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x86\cvextern.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x86\msvcp140.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\x86\vcruntime140.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\Emgu.CV.UI.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\ZedGraph.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\Emgu.CV.UI.xml
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\Emgu.CV.World.xml
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\ZedGraph.xml
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\Visual Studio 2017\Projects\DAE2GFX\DAE2GFX\bin\Debug\Emgu.CV.World.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x64\concrt140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x64\cvextern.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x64\msvcp140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x64\vcruntime140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x86\concrt140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x86\cvextern.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x86\msvcp140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\x86\vcruntime140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\DAE2BMF.exe.config
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\DAE2BMF.exe
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\DAE2BMF.pdb
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\Emgu.CV.World.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\ZedGraph.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\Emgu.CV.World.xml
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\ZedGraph.xml
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2BMF.csprojResolveAssemblyReference.cache
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2GFX.Form1.resources
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2BMF.Form2.resources
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2BMF.Properties.Resources.resources
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2BMF.csproj.GenerateResource.Cache
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2BMF.csproj.CoreCompileInputs.cache
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2BMF.exe
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\DAE2BMF\DAE2GFX\obj\Debug\DAE2BMF.pdb
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x64\concrt140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x64\cvextern.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x64\msvcp140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x64\vcruntime140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x86\concrt140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x86\cvextern.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x86\msvcp140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\x86\vcruntime140.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\DAE2BMF.exe.config
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\DAE2BMF.exe
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\DAE2BMF.pdb
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\Emgu.CV.World.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\ZedGraph.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\Emgu.CV.World.xml
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\ZedGraph.xml
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2BMF.csprojResolveAssemblyReference.cache
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2GFX.Form1.resources
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2BMF.Form2.resources
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2BMF.Properties.Resources.resources
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2BMF.csproj.GenerateResource.Cache
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2BMF.csproj.CoreCompileInputs.cache
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2BMF.exe
+C:\Users\Darklink\Documents\game redesign projects\metroid 64\Dae2BmfBitbucket\DAE2GFX\obj\Debug\DAE2BMF.pdb
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x64\concrt140.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x64\cvextern.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x64\msvcp140.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x64\vcruntime140.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x86\concrt140.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x86\cvextern.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x86\msvcp140.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\x86\vcruntime140.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\DAE2BMF.exe.config
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\DAE2BMF.exe
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\DAE2BMF.pdb
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Emgu.CV.UI.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Emgu.CV.World.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\ZedGraph.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Emgu.CV.UI.xml
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Emgu.CV.World.xml
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\ZedGraph.xml
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\obj\Debug\DAE2BMF.csprojResolveAssemblyReference.cache
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\obj\Debug\DAE2GFX.Form1.resources
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\obj\Debug\DAE2BMF.Form2.resources
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\obj\Debug\DAE2BMF.Properties.Resources.resources
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\obj\Debug\DAE2BMF.csproj.GenerateResource.Cache
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\obj\Debug\DAE2BMF.exe
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\obj\Debug\DAE2BMF.pdb
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\RobiNDER\Documents\dae2bmf\DAE2GFX\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
